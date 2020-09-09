@@ -1,16 +1,16 @@
 package com.example.s_act_1;
 
-import androidx.appcompat.app.AppCompatActivity;
+        import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
-import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.RelativeLayout;
-import android.widget.ScrollView;
-import android.widget.TextView;
+        import android.content.Intent;
+        import android.os.Bundle;
+        import android.view.View;
+        import android.widget.Button;
+        import android.widget.ImageView;
+        import android.widget.LinearLayout;
+        import android.widget.RelativeLayout;
+        import android.widget.ScrollView;
+        import android.widget.TextView;
 
 public class s_act_4 extends AppCompatActivity {
 
@@ -18,7 +18,6 @@ public class s_act_4 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_s_act_4);
-
         RelativeLayout s_Ract4=findViewById(R.id.s_Ract4);
         ImageView s_bg3=findViewById(R.id.s_bg3);
         ScrollView act4_scroll=findViewById(R.id.act4_scroll);

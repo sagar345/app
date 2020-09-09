@@ -59,4 +59,18 @@
         android:textSize="22sp"
         android:textStyle="bold" />
 
+    <Button
+        android:id="@+id/s_b_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/s_b_1"
+        android:layout_centerHorizontal="true"
+        android:alpha="0.5"
+        android:padding="20dp"
+        android:text="@string/act1_but4"
+        android:textAlignment="center"
+        android:textColor="@color/colorblack"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
 </RelativeLayout>

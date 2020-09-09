@@ -1,34 +1,35 @@
 <resources>
-<string name="app_name">Good Health</string>
-<string name="Banana">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin A and C, Calcium, Iron, Magnesium, Potasium</string>
-<string name="Apple">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Beta carotene ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium, Sodium</string>
-<string name="Pineapple">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium</string>
-<string name="Cashewnut">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Beta carotene ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium, Sodium</string>
-<string name="Lemon">Vitamin C ,Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (B1, B2, B6) ,Calcium, Iron, Potasium, Copper</string>
-<string name="Strawberry">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium ,Selinium</string>
-<string name="fruit1">Banana</string>
-<string name="fruit2">Apple</string>
-<string name="fruit3">Pineapple</string>
-<string name="fruit4">Cashew nut</string>
-<string name="fruit5">Lemon</string>
-<string name="fruit6">Strawberry</string>
-<string name="act1_but1">Nutrition levels of different fruits</string>
-<string name="act1_but2">Recommended dietary allowance</string>
-<string name="act1_but3">Diet plans</string>
-<string name="back">back</string>
-<string name="group1">Adult age group(male):</string>
-<string name="group1_male">Calories:2900kcal\nProteins:58g\nVitamin A:1000mcg\nVitamin D:10mcg\nVitamin E:10mcg\nVitamin K:70mcg\nVitamin C:60mg\nVitamin B1:1.5mg\nVitamin B2:1.7mg\nVitamin B3:19mg\nVitamin B6:2mcg\nFolate:0.2mg\nVitamin B12:2mg\nCalcium:1200mg\nPhosphorous:1200mg\nMagnesium:350mg\nIron:10mg\nZinc:15mcg\nIodine:150mcg\nSelenium:70mcg</string>
-<string name="group2">Adult age group(female):</string>
-<string name="group2_female">Calories:2200kcal\nProteins:46g\nVitamin A:800mcg\nVitamin D:10mcg\nVitamin E:8mcg\nVitamin K:60mcg\nVitamin C:60mg\nVitamin B1:1.1mg\nVitamin B2:1.3mg\nVitamin B3:15mg\nVitamin B6:1.6mcg\nFolate:180mcg\nVitamin B12:2mg\nCalcium:1200mg\nPhosphorous:1200mg\nMagnesium:280mg\nIron:15mg\nZinc:12mcg\nIodine:150mcg\nSelenium:55mcg</string>
-<string name="act4_text1">7-Days Diet Plan:</string>
-<string name="s_day1">Day-1</string>
-<string name="s_day2">Day-2</string>
-<string name="s_day3">Day-3</string>
-<string name="s_day4">Day-4</string>
-<string name="s_day5">Day-5</string>
-<string name="s_day6">Day-6</string>
-<string name="s_day7">Day-7</string>
-<string name="day1"><b>Breakfast (287 calories)</b>\n
+    <string name="app_name">Good Health</string>
+    <string name="Banana">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin A and C, Calcium, Iron, Magnesium, Potasium</string>
+    <string name="Apple">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Beta carotene ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium, Sodium</string>
+    <string name="Pineapple">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium</string>
+    <string name="Cashewnut">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Beta carotene ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium, Sodium</string>
+    <string name="Lemon">Vitamin C ,Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (B1, B2, B6) ,Calcium, Iron, Potasium, Copper</string>
+    <string name="Strawberry">Energy, Carbohydrates, Fat, Fibre, Protien, Vitamin (A, C, folic acid, niacin, pantothenic acid, pyridoxine, riboflavin, B1, E, K) ,Phosphorous ,Zinc ,Calcium, Iron, Magnesium, Potasium ,Selinium</string>
+    <string name="fruit1">Banana</string>
+    <string name="fruit2">Apple</string>
+    <string name="fruit3">Pineapple</string>
+    <string name="fruit4">Cashew nut</string>
+    <string name="fruit5">Lemon</string>
+    <string name="fruit6">Strawberry</string>
+    <string name="act1_but1">Nutrition levels of different fruits</string>
+    <string name="act1_but2">Recommended dietary allowance</string>
+    <string name="act1_but3">Diet plans</string>
+    <string name="act1_but4">Physical plans</string>
+    <string name="back">back</string>
+    <string name="group1">Adult age group(male):</string>
+    <string name="group1_male">Calories:2900kcal\nProteins:58g\nVitamin A:1000mcg\nVitamin D:10mcg\nVitamin E:10mcg\nVitamin K:70mcg\nVitamin C:60mg\nVitamin B1:1.5mg\nVitamin B2:1.7mg\nVitamin B3:19mg\nVitamin B6:2mcg\nFolate:0.2mg\nVitamin B12:2mg\nCalcium:1200mg\nPhosphorous:1200mg\nMagnesium:350mg\nIron:10mg\nZinc:15mcg\nIodine:150mcg\nSelenium:70mcg</string>
+    <string name="group2">Adult age group(female):</string>
+    <string name="group2_female">Calories:2200kcal\nProteins:46g\nVitamin A:800mcg\nVitamin D:10mcg\nVitamin E:8mcg\nVitamin K:60mcg\nVitamin C:60mg\nVitamin B1:1.1mg\nVitamin B2:1.3mg\nVitamin B3:15mg\nVitamin B6:1.6mcg\nFolate:180mcg\nVitamin B12:2mg\nCalcium:1200mg\nPhosphorous:1200mg\nMagnesium:280mg\nIron:15mg\nZinc:12mcg\nIodine:150mcg\nSelenium:55mcg</string>
+    <string name="act4_text1">7-Days Diet Plan:</string>
+    <string name="s_day1">Day-1</string>
+    <string name="s_day2">Day-2</string>
+    <string name="s_day3">Day-3</string>
+    <string name="s_day4">Day-4</string>
+    <string name="s_day5">Day-5</string>
+    <string name="s_day6">Day-6</string>
+    <string name="s_day7">Day-7</string>
+    <string name="day1"><b>Breakfast (287 calories)</b>\n
     • 1 serving Muesli with Raspberries\n\n\n
 
     Clean-Eating Shopping Tip: When buying muesli, look for a brand that doesn\'t have added sugars, which take away from the healthy goodness of this whole-grain breakfast.\n\n\n
@@ -48,7 +49,7 @@
     • 1 serving Balsamic-Dijon Chicken\n\n
 
     Daily Totals: 1,224 calories, 61 g protein, 153 g carbohydrates, 40 g fiber, 47 g fat, 1,400 mg sodium.</string>
-<string name="day2"><b>Breakfast</b> (270 calories)\n
+    <string name="day2"><b>Breakfast</b> (270 calories)\n
     • 1 serving Avocado-Egg Toast\n\n\n
 
     Clean-Eating Shopping Tip: Use sprouted-grain bread as your bread for these next two weeks as it\'s made without added sugars, unlike many store-bought breads. Also, if you plan to top your egg toast with hot sauce, look for a brand that\'s made without added sugars.\n\n\n
@@ -68,7 +69,7 @@
     • 1/2 cup Easy Brown Rice\n\n\n
 
 Daily Totals: 1,225 calories, 63 g protein, 147 g carbohydrates, 33 g fiber, 46 g fat, 1,965 mg sodium.</string>
-<string name="day3">Breakfast\n (287 calories)
+    <string name="day3">Breakfast\n (287 calories)
     • 1 serving Muesli with Raspberries\n\n\n
 
     A.M. Snack (62 calories)\n
@@ -86,7 +87,7 @@ Daily Totals: 1,225 calories, 63 g protein, 147 g carbohydrates, 33 g fiber, 46 
     • 1 cup Easy Brown Rice\n\n\n
 
     Daily Totals: 1,206 calories, 62 g protein, 174 g carbohydrates, 37 g fiber, 48 g fat, 1,444 mg sodium.</string>
-<string name="day4">Breakfast (257 calories)\n
+    <string name="day4">Breakfast (257 calories)\n
     • 1/2 cup rolled oats, cooked in 1 cup milk\n\n
 
     • 1 medium plum, chopped\n\n
@@ -108,7 +109,7 @@ Daily Totals: 1,225 calories, 63 g protein, 147 g carbohydrates, 33 g fiber, 46 
     • 1 1/2 cups mixed greens dressed with 2 Tbsp. Lemon-Tahini Dressing\n\n
 
 Daily Totals: 1,214 calories, 58 g protein, 166 g carbohydrates, 32 g fiber, 41 g fat, 1,553 mg sodium.</string>
-<string name="day5">Breakfast (290 calories)\n
+    <string name="day5">Breakfast (290 calories)\n
     • 1 serving Peanut Butter-Banana Cinnamon Toast\n\n
 
     Clean-Eating Shopping Tip: When choosing a store-bought peanut butter, avoid brands with added sugars and trans fats. Read more about choosing a healthy peanut butter.\n\n\n
@@ -123,7 +124,7 @@ Daily Totals: 1,214 calories, 58 g protein, 166 g carbohydrates, 32 g fiber, 41 
     • 1 serving Pork Chops with Garlicky Broccoli\n\n
 
     Daily Totals: 1,225 calories, 54 g protein, 102 g carbohydrates, 30 g fiber, 71 g fat, 1,175 mg sodium.</string>
-<string name="day6">Breakfast (257 calories)\n
+    <string name="day6">Breakfast (257 calories)\n
     • 1/2 cup rolled oats, cooked in 1 cup milk\n\n
 
     • 1 medium plum, chopped\n\n
@@ -148,7 +149,7 @@ Daily Totals: 1,214 calories, 58 g protein, 166 g carbohydrates, 32 g fiber, 41 
     Meal-Prep Tip: You\'ll use the remaining Citrus Vinaigrette next week.\n\n
 
     Daily Totals: 1,203 calories, 57g protein, 146 g carbohydrates, 31 g fiber, 49 g fat, 1,120 mg sodium.</string>
-<string name="day7">Breakfast (307 calories)\n
+    <string name="day7">Breakfast (307 calories)\n
     • 2 cups Jason Mraz\'s Avocado Green Smoothie\n\n\n
 
     A.M. Snack (35 calories)\n
@@ -173,4 +174,39 @@ Daily Totals: 1,214 calories, 58 g protein, 166 g carbohydrates, 32 g fiber, 41 
     Meal-Prep Tip: Save a 1-cup serving of the No-Cook Black Bean Salad to have for lunch on Day 9. Store the dressing separately and wait to add until ready to eat. Pack up 2 servings of the Mexican Cabbage Soup in a leak-proof container to have for lunch on Days 9 \'&amp;\' 12.\n\n
 
     Daily Totals: 1,214 calories, 35 g protein, 163 g carbohydrates, 48 g fiber, 55 g fat, 1,365 mg sodium.</string>
+
+
+    <string name="act5_t1">Developing a balanced exercise plan</string>
+    <string name="act5_t2">1.150 minutes of moderate aerobic exercise per week (for example, 30 minutes on   each of five days)or 75 minutes of vigorous aerobic activity (or an equiva- lent mix of the two).\n2.two or more strength training sessions per week, with at least 48 hours in between to allow muscles to recover.\n 3.balance exercises for older adults at risk for falls.\n</string>
+    <string name="act5_t3">->Each workout should also include a simple warm-up at the beginning and a cool-down at the end. The warm-up should consist of gentle exercise, such as marching in place, to loosen up your muscles and get more oxygen-rich blood flowing to them. To cool down, slow your activity and the intensity for five to 10 minutes, then finish off with stretches to help prevent stiffness.\n\n</string>
+    <string name="act5_t4">Practice good technique:\n</string>
+    <string name="act5_t5">*Walk at a brisk, steady pace. Slow down if you’re too breathless to carry on a conversation.\n
+*Stand tall.\n
+*Hold your head up so your chin is level and look 10 to 20 feet in front of you.\n
+*Lift your chest.\n
+*Keep your shoulders down.\n
+*Point your toes straight ahead.\n
+*Let your arms swing loosely at your sides.\n
+*If you want to boost your speed, bend your elbows at 90-degree angles and swing your hands from waist to chest height.\n
+*Land on your heel, then roll forward onto the ball of your foot, pushing off from your toes.\n
+*Take comfortable strides. To go faster, take quicker steps instead of longer ones.\n</string>
+    <string name="act5_t6">Daily work out plan in a weak:\n</string>
+    <string name="act5_t7">Monday: Upper-body strength training (45 to 60 minutes)\n</string>
+    <string name="act5_t8"> It\'s no secret that strength training is a critical part of any weekly workout schedule. Sure, dumbbells and barbells may look overwhelming at times, but strength training can help build lean muscle, increase bone strength, and prevent injury. Try this upper-body dumbbell workout, or incorporate HIIT into your upper body training with this at-home bodyweight workout.\n
+        *Just remember to change up your strength routine every three to four weeks to keep seeing results\n</string>
+    <string name="act5_t9">Tuesday: Lower\-body strength training (30 to 60 minutes)\n</string>
+    <string name="act5_t10">Since the general rule of thumb when it comes to lifting is to allow 48 hours of recovery time between working the same muscle group (when you train, you develop microscopic tears in the muscles that produce inflammation, and your body needs this in-between time to repair the tears), focus on lower body strength on \'day two\' to give your upper body muscles a rest. Try this lower body fat-burning workout that uses a resistance band and dumbbells.\n</string>
+    <string name="act5_t11">Wednesday: Yoga or a low-impact activity like barre, light cycling, or swimming (30 to 60 minutes)\n</string>
+    <string name="act5_t12">"The general rule of thumb is that you don't want to do the same activity on successive days," says Cardone. "So, if you have a high impact day, follow that up with a low impact day." A low-impact workout will ensure you give your muscles time to recover before you hit the heavy weights again, but can still be a great way to burn major calories.\n</string>
+    <string name="act5_t13">Thursday: HIIT (20 minutes)\n</string>
+    <string name="act5_t14">Not only do these fast-paced workouts take half the time, but they can also provide the same health benefits as endurance activities, according to one University of Birmingham study. There\'s even evidence that those who pick up HIIT-style workouts are more likely to stick to their routine because of the variety of movements.\n
+
+      *"HIIT could take dozens of forms, but a good start would be to pick something you like, like running, cycling, rowing, or dancing," says Rosante. "Then, do it for intervals of time. Short bursts of full effort work coupled with lower-intensity work of the same move." (Here, score six HIIT moves from Rosane that tone in 30 seconds.)\n</string>
+    <string name="act5_t15">Friday: Total-body strength training (30 to 60 minutes)\n</string>
+    <string name="act5_t16">"When it comes to strength training, you should aim to hit all of your major muscle groups like your quads, glutes, hamstrings, chest and upper back, plus core," says Rosante, who encourages a primary focus on heavier compound lifts like the deadlift, hip thrust, squat, bench press and weighted rowing movements (plus anti-movement exercises for your core). "Think plank and plank variations as well as exercises like the Paloff press," he says.\n</string>
+    <string name="act5_t17">Saturday: Steady-state cardio (running or cycling for as long as feels comfortable for you)\n</string>
+    <string name="act5_t18">Yes, HIIT workouts tend to get all of the attention these days (HIIT has a ton of benefits), but steady-state cardio is still important for your health, so make sure it\'s a part of your workout schedule on a weekly basis. In fact, a recent study found that running just two hours a week can significantly extend your lifespan, providing some pretty convincing evidence that running deserves a place in your weekly workout schedule. Ditto for biking-one recent study suggested biking can help you live longer while reducing your risk of cancer and heart disease by nearly half.\n</string>
+    <string name="act5_t19">Sunday: Rest (Don\'t forget to foam roll and stretch!)\n</string>
+    <string name="act5_t20">Think of fitness as a lifelong experience," says Rilinger. "When we\'re younger, we feel invincible and ignore the warning signs. Giving your body the time it needs to recover means you can stay in the game longer."\n</string>
+
 </resources>

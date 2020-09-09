@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         Button b1=findViewById(R.id.s_b_1);
         Button b2=findViewById(R.id.s_b_2);
         Button b3=findViewById(R.id.s_b_3);
+        Button b4=findViewById(R.id.s_b_4);
 
         RelativeLayout s_Ract1=findViewById(R.id.s_Ract1);
 
@@ -43,6 +44,14 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent Diet=new Intent(MainActivity.this,s_act_4.class);
                 startActivity(Diet);
+            }
+        });
+
+        b4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent Physical=new Intent(MainActivity.this,s_act_5.class);
+                startActivity(Physical);
             }
         });
 
